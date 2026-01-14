@@ -198,11 +198,11 @@ while True:
         #run compound_interest
         compound_interest()
     #if want is Budget Allocato
-    elif want == "Budget Allocato":
+    elif want == "Budget Allocator":
         #run budget_allocator
         budget_allocator()
     #if want is Sale Price Calculator
-    elif want == "Price Calculator":
+    elif want == "Sale Price Calculator":
         #run discount_tip 
         discount_tip()
     #if want is Tip Calculator
