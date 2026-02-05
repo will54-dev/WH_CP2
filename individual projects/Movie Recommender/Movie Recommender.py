@@ -10,3 +10,12 @@
         #loop for the item in content
             #add a dictionary with the header then the item to the end of list_of_movies
     #retuen the list_of_movies
+
+#funtion for the filters tat takes the Filter and movies_list
+    #set want to what Filter do you want to filter for.
+    # set movies_list to a list
+    #loop for item in list_of_movies
+        #if want is in item with Filter
+            #append item with Title to movies_list
+    #return movies_list
+
